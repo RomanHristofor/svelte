@@ -2,7 +2,7 @@
 
 ![Mobile View](assets/2mobile.png)
 
-
+API не работает при включённом VPN — для корректной загрузки данных отключите VPN.
 ```sh
 npm install
 
